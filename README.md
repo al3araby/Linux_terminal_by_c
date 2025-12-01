@@ -1,5 +1,9 @@
 
+# c-linux-terminal-app
 
+This project is a simple Linux terminal application that allows users to execute any Linux command. It serves as an educational tool to understand how command execution works in a Unix-like environment.
+
+---
 <div align="center">
 
 ## 🌐 Social Links
@@ -8,12 +12,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-MM__EZ-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/MM_EZ)
 
 </div>
-
-
-
-# c-linux-terminal-app
-
-This project is a simple Linux terminal application that allows users to execute any Linux command. It serves as an educational tool to understand how command execution works in a Unix-like environment.
+---
 
 ## Project Structure
 
@@ -74,3 +73,25 @@ C GUI
 ```
 ./gui_terminal.c
 ```
+
+---
+
+# 🎨 Social Icons (Clickable)
+
+### 📸 Instagram
+
+👉 **[@el3rraby](https://instagram.com/el3rraby)**
+
+### 📩 Telegram
+
+👉 **[MM_EZ](https://t.me/MM_EZ)**
+
+---
+
+# 👨‍💻 About the Developer
+
+**Made with ❤️ by *el3araby***
+
+---
+
+
