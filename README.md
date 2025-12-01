@@ -1,3 +1,16 @@
+
+
+<div align="center">
+
+## 🌐 Social Links
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-el3rraby-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/el3rraby)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-MM__EZ-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/MM_EZ)
+
+</div>
+
+
+
 # c-linux-terminal-app
 
 This project is a simple Linux terminal application that allows users to execute any Linux command. It serves as an educational tool to understand how command execution works in a Unix-like environment.
